@@ -42,15 +42,6 @@ Program ini menerapkan beberapa konsep penting, yaitu:
 
 ---
 
-## 📸 Tampilan Program
-
-Tambahkan screenshot kamu di folder `images/`
-
-```md
-![Menu](images/menu.png)
-![Transaksi](images/transaksi.png)
-```
-
 ---
 
 ## 💡 Keunggulan Program
